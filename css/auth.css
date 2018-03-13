@@ -7,7 +7,7 @@ Web:		http://www.itmaniax.com
 /*********	LOGIN	***********************************************************/
 /******************************************************************************/
 html body {
-    background-image: url('../../itm-media/img/admin/login/login-background.jpg');
+    background-image: url('../../itm-media/img/admin/login/background.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
