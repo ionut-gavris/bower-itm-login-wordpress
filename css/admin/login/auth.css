@@ -7,7 +7,7 @@ Web:		http://www.itmaniax.com
 /*********	LOGIN	***********************************************************/
 /******************************************************************************/
 html body {
-    background-image: url('../../itm-media/img/admin/login/background.jpg');
+    background-image: url('../../../../itm-media/img/admin/login/background.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -64,7 +64,7 @@ a:focus {
 }	
 /* INPUT - STOP */
 .login h1 a {
-    background-image: url('../../itm-media/img/itm-logo-gradient-blue.png');
+    background-image: url('../../../../itm-media/img/itm-logo-gradient-blue.png');
     width: 100%;
     height: 60px;
     background-size: contain;
